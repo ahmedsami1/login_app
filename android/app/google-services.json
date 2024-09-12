@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612425777202",
+    "project_id": "login-6dd20",
+    "storage_bucket": "login-6dd20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612425777202:android:e2cf1fc4528a155b593c2b",
+        "android_client_info": {
+          "package_name": "com.example.login_test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Voc_tXqVoFBM0GV8YtMh59IPZCHvIRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
